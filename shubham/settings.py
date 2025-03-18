@@ -79,8 +79,8 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME': 'portfoliodb',
         'USER': 'CoinDelta',
-        'PASSWORD':'root',
-        'HOST': 'localhost',
+        'PASSWORD':'sitereliability',
+        'HOST': '54.89.52.26',
         'PORT':5432
     }
 }
